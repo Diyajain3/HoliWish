@@ -14,7 +14,8 @@ It features a smooth circular reveal effect, animated background, glassy greetin
 
 ## 📸 Screenshot
 
-![HoliWish Preview](https://holiwish-bydiya.vercel.app/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe681b90-859a-4f64-94f7-bea2bce67a4a" />
+
 
 ---
 
