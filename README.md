@@ -1,16 +1,79 @@
-# React + Vite
+# 🎨 HoliWish — A Festive Interactive Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎉 **Live Demo:** https://holiwish-bydiya.vercel.app/  
+Click the button and enjoy the beautiful Holi greeting experience ✨
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 Overview
 
-## React Compiler
+**HoliWish** is a vibrant and interactive Holi greeting website built with **React**, **Tailwind CSS**, and modern CSS animations.  
+It features a smooth circular reveal effect, animated background, glassy greeting card, and responsive design — perfect for sharing festive vibes with friends and family.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![HoliWish Preview](https://holiwish-bydiya.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- 🎯 **Circle Reveal Animation** — Click the button to reveal the message in a smooth expanding circle.
+- 🌈 **Animated Background** — Slow moving Holi-themed background for a dynamic feel.
+- 💎 **Glassmorphism UI Card** — A semi-transparent greeting card with elegant blur and glow.
+- ✨ **Animated Heading & Sparkles** — Gradient animated text + pulsing sparkle icon.
+- 📱 **Responsive UI** — Works beautifully on both mobile and desktop screens.
+
+---
+
+## 📦 Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| **React** | Frontend UI |
+| **Vite** | Dev tooling & bundler |
+| **Tailwind CSS** | Utility-first styling |
+| **Lucide Icons** | Sparkle icons |
+| **CSS Animations** | Background & reveal effects |
+| **Vercel** | Deployment |
+
+---
+
+## 🧩 How It Works
+
+1. The user lands on the homepage with a background and a button.
+2. Clicking the button triggers a circular reveal animation.
+3. The Holi greeting message is displayed inside a glass-style card.
+4. The background gently animates to give a festive vibe.
+
+---
+
+## 🛠️ Setup & Installation
+
+### 🔹 Clone the Project
+
+```bash
+git clone https://github.com/Diyajain3/HoliWish.git
+cd HoliWish
+npm install
+npm run dev
+http://localhost:5173
+
+## Deployment
+Deploy on Vercel (used for live demo)
+1)Push this repo to GitHub
+2)Go to https://vercel.com
+3)Import your project and deploy
+4)Vercel auto-detects Vite and builds
+
+## Responsive Design
+The UI is optimized for:
+✔ Mobile
+✔ Tablet
+✔ Desktop
+
+❤️ Author
+Made with ❤️ by Diya Jain
+🎨 A festive project to celebrate colors and joy.
